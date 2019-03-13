@@ -1,6 +1,0 @@
-
-Dulhan name: suhani
- Dulha name: sahdev
- Marrige_bajet : 1000000
- Address : bhutiya
- Sound_System : DJ 
